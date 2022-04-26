@@ -5,7 +5,6 @@
 
 <a href="mailto: ghenya.t@gmail.com" target="_blank">ghenya.t@gmail.com</a>
 
-
 <a href="https://t.me/ghenyaT" target="_blank">Telegram: @ghenyaT</a>
----
+
 
