@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evgeny Tokarev.
+- 👋 Hi, I’m Eugen Tokarev.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently looking for frontend job.
 - 📫 How to reach me : 
